@@ -48,7 +48,7 @@ Edit
 
 ## 🌐 Live Demo
 
-> Coming soon (host on Render / HuggingFace / Local for now)
+> https://youtu.be/8O3bSxBgarg
 
 ---
 
